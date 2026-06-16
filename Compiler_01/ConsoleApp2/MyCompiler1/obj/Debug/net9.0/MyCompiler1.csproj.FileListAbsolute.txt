@@ -1,0 +1,14 @@
+C:\Users\Пользователь\Desktop\uni 2024\2_year\YAPI\10_lab\Compiler_01\ConsoleApp2\MyCompiler1\bin\Debug\net9.0\MyCompiler1.exe
+C:\Users\Пользователь\Desktop\uni 2024\2_year\YAPI\10_lab\Compiler_01\ConsoleApp2\MyCompiler1\bin\Debug\net9.0\MyCompiler1.deps.json
+C:\Users\Пользователь\Desktop\uni 2024\2_year\YAPI\10_lab\Compiler_01\ConsoleApp2\MyCompiler1\bin\Debug\net9.0\MyCompiler1.runtimeconfig.json
+C:\Users\Пользователь\Desktop\uni 2024\2_year\YAPI\10_lab\Compiler_01\ConsoleApp2\MyCompiler1\bin\Debug\net9.0\MyCompiler1.dll
+C:\Users\Пользователь\Desktop\uni 2024\2_year\YAPI\10_lab\Compiler_01\ConsoleApp2\MyCompiler1\bin\Debug\net9.0\MyCompiler1.pdb
+C:\Users\Пользователь\Desktop\uni 2024\2_year\YAPI\10_lab\Compiler_01\ConsoleApp2\MyCompiler1\obj\Debug\net9.0\MyCompiler1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\uni 2024\2_year\YAPI\10_lab\Compiler_01\ConsoleApp2\MyCompiler1\obj\Debug\net9.0\MyCompiler1.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\uni 2024\2_year\YAPI\10_lab\Compiler_01\ConsoleApp2\MyCompiler1\obj\Debug\net9.0\MyCompiler1.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\uni 2024\2_year\YAPI\10_lab\Compiler_01\ConsoleApp2\MyCompiler1\obj\Debug\net9.0\MyCompiler1.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\uni 2024\2_year\YAPI\10_lab\Compiler_01\ConsoleApp2\MyCompiler1\obj\Debug\net9.0\MyCompiler1.dll
+C:\Users\Пользователь\Desktop\uni 2024\2_year\YAPI\10_lab\Compiler_01\ConsoleApp2\MyCompiler1\obj\Debug\net9.0\refint\MyCompiler1.dll
+C:\Users\Пользователь\Desktop\uni 2024\2_year\YAPI\10_lab\Compiler_01\ConsoleApp2\MyCompiler1\obj\Debug\net9.0\MyCompiler1.pdb
+C:\Users\Пользователь\Desktop\uni 2024\2_year\YAPI\10_lab\Compiler_01\ConsoleApp2\MyCompiler1\obj\Debug\net9.0\MyCompiler1.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\uni 2024\2_year\YAPI\10_lab\Compiler_01\ConsoleApp2\MyCompiler1\obj\Debug\net9.0\ref\MyCompiler1.dll
